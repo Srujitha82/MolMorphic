@@ -1,0 +1,32 @@
+id,name,smiles
+1,aspirin,CC(=O)OC1=CC=CC=C1C(=O)O
+2,salicylic acid,OC(=O)C1=CC=CC=C1O
+3,paracetamol,CC(=O)NC1=CC=C(O)C=C1
+4,ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+5,naproxen,COC1=CC2=CC=C(C=C2C=C1)C(C)C(=O)O
+6,caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+7,theobromine,CN1C=NC2=C1C(=O)NC(=O)N2C
+8,theophylline,CN1C(=O)C2=C(NC=N2)N(C)C1=O
+9,nicotine,CN1CCCC1C1=CN=CC=C1
+10,diazepam,CN1C(=O)CN=C(C2=CC=CC=C2)C2=C1C=CC(Cl)=C2
+11,glucose,OCC1OC(O)C(O)C(O)C1O
+12,ethanol,CCO
+13,methanol,CO
+14,benzene,C1=CC=CC=C1
+15,toluene,CC1=CC=CC=C1
+16,phenol,OC1=CC=CC=C1
+17,aniline,NC1=CC=CC=C1
+18,acetic acid,CC(=O)O
+19,benzoic acid,OC(=O)C1=CC=CC=C1
+20,methyl salicylate,COC(=O)C1=CC=CC=C1O
+21,metformin,CN(C)C(=N)N=C(N)N
+22,dopamine,NCCC1=CC(O)=C(O)C=C1
+23,serotonin,NCCC1=CNC2=CC=C(O)C=C12
+24,adrenaline,CNCC(O)C1=CC(O)=C(O)C=C1
+25,atenolol,CC(C)NCC(O)COC1=CC=C(CC(N)=O)C=C1
+26,propranolol,CC(C)NCC(O)COC1=CC=CC2=CC=CC=C12
+27,lidocaine,CCN(CC)CC(=O)NC1=C(C)C=CC=C1C
+28,sulfanilamide,NC1=CC=C(C=C1)S(N)(=O)=O
+29,urea,NC(N)=O
+30,pyridine,C1=CC=NC=C1
+31,naphthalene,C1=CC2=CC=CC=C2C=C1
